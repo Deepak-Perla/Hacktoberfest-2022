@@ -13,4 +13,4 @@
 That's all! Allow for the review and merging of the PR into the repository.
 
 How to do `Pull Request`
-[https://github.com/Deepak-Perla/Hacktoberfest-2022/discussions/6](Click here!)
+[https://github.com/Deepak-Perla/Hacktoberfest-2022/discussions/6]
