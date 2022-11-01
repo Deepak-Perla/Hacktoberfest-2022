@@ -1,4 +1,10 @@
-<h1 align="center">  Hacktober Fest 2022 </h1>
+<h1 align="center"> Thank You for your participation! </h1>
+
+
+<p align = "center"><b> ❤️🧡💛💚💜💙🖤 Hacktoberfest-2022 is currently no accepting PRs ❤️🧡💛💚💜💙🖤 </b></p>
+
+
+<!-- <h1 align="center">  Hacktober Fest 2022 </h1>
 <p align = "center"><b>:tada: Open source is not only about contribution, it is more than that! :tada:</b></p><br>
 <p align = "center">
   <img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg" width="90%"/>
@@ -99,3 +105,4 @@ This repository and the contained files are licensed under MIT License.
 ---
 
 <p align = "center"><b> ❤️🧡💛💚💜💙🖤 Thank You for your participation! ❤️🧡💛💚💜💙🖤 </b></p>
+ -->
